@@ -1,0 +1,5 @@
+print ("Wecome to minutes to seconds")
+Number1 = int(input("Enter an ammount of minutes here:"))
+Number2 = Number1 * 60
+print ("Seconds in "+str(Number1)+" minutes is:")
+print (str(Number2)+ " Seconds")
